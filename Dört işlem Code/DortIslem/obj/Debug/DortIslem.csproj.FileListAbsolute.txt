@@ -1,0 +1,10 @@
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\bin\Debug\DortIslem.exe.config
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\bin\Debug\DortIslem.exe
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\bin\Debug\DortIslem.pdb
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.csprojAssemblyReference.cache
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.Form1.resources
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.Properties.Resources.resources
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.csproj.GenerateResource.cache
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.csproj.CoreCompileInputs.cache
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.exe
+C:\Users\Gernas\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.pdb
