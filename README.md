@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadıl Başaran</h1>
-<h3 align="center">A passionate Flutter Developer from Turkey</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="code-developer.gif">
 
