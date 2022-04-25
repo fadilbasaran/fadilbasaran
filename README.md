@@ -1,4 +1,4 @@
-<h1 align="center">👋,I'm Fadıl Başaran</h1>
+<h1 align="center">👋, Hı I'm Fadıl Başaran</h1>
 <h3 align="center">Software Engineer | Flutter Developer | Mobile Application Developer  </h3>
 
 <img align="right" alt="Coding" width="400" src="coding.gif">
