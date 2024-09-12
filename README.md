@@ -1,5 +1,5 @@
 <h1 align="center">👋, Hi I'm Fadıl Başaran</h1>
-<h3 align="center">Software Engineer | Flutter Developer & IOS Developer| Mobile Application Developer  </h3>
+<h3 align="center">Software Engineer | Frontend Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="coding.gif">
 
