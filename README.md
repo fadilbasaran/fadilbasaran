@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadilbasaran&label=Profile%20views&color=0e75b6&style=flat" alt="fadilbasaran" /> </p>
 <p align="left"> <a href="https://twitter.com/fadilbasaran" target="blank"><img src="https://img.shields.io/twitter/follow/fadilbasaran?logo=twitter&style=for-the-badge" alt="fadilbasaran" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and IOS**
+- 🌱 I’m currently learning **React, .Net**
 
 - 📝 I regularly write articles on [https://medium.com/@fadilbasaran](https://medium.com/@fadilbasaran)
 - 📫 How to reach me **fadilbasaran.gml@gmail.com**
